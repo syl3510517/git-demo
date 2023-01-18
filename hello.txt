@@ -17,3 +17,4 @@
 /Volumes/Enigma Installer/Enigma.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
 /Volumes/Enigma Installer/Enigma.app/Contents/Resources/Enigmareminder.app
 /Volumes/Enigma Installer/Enigma.app/Contents/Resources/screencapture.app
+dddddddddddddddddddddddddd
