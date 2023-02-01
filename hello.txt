@@ -1,20 +1,5 @@
-/Applications/electerm.app/Contents/Frameworks/electerm Helper (Plugin).app
-/Applications/electerm.app/Contents/Frameworks/electerm Helper.app
-/Applications/electerm.app/Contents/Frameworks/electerm Helper (GPU).app
-/Applications/electerm.app/Contents/Frameworks/electerm Helper (Renderer).app
-/Applications/iTerm.app
-/Applications/iTerm.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
-/Applications/Firefox.app
-/Applications/Firefox.app/Contents/MacOS/plugin-container.app
-/Applications/Firefox.app/Contents/MacOS/crashreporter.app
-/Applications/Firefox.app/Contents/MacOS/updater.app
-/Applications/Sublime Text.app
-/Volumes/CoolTermMac/CoolTerm.app
-/Volumes/SecureCRT/SecureCRT.app
-/Volumes/SecureCRT/SecureCRT.app/Contents/Resources/SecureCRT_UrlLauncher.app
-/Volumes/SecureCRT/SecureCRT.app/Contents/Resources/VanDykeUpdate.app
-/Volumes/Enigma Installer/Enigma.app
-/Volumes/Enigma Installer/Enigma.app/Contents/Frameworks/Sparkle.framework/Versions/A/Resources/Autoupdate.app
-/Volumes/Enigma Installer/Enigma.app/Contents/Resources/Enigmareminder.app
-/Volumes/Enigma Installer/Enigma.app/Contents/Resources/screencapture.app
-dddddddddddddddddddddddddd
+1111111111111111
+2222222222222222
+3333333333333333
+444444444444444
+555555555555555
